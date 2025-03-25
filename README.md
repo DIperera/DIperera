@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishira</h1>
-<h3 align="center">A passionate Fullstack Developer from Sri Lanka</h3>
+<h2 align="center">A passionate Fullstack Developer from Sri Lanka</h2>
+<div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=0086F7&size=28&center=true&vCenter=true&width=600&height=50&lines=An+enthusiastic+IT+Undergraduate;Exploring+New+Technologies;Line+by+line+💻😁;" alt="Headline"/> 
+    </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diperera&label=Profile%20views&color=0e75b6&style=flat" alt="diperera" /> </p>
 
