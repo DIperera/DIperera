@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diperera&label=Profile%20views&color=0e75b6&style=flat" alt="diperera" /> </p>
 
 <details>
-  <summary><h1>About Me</h1></summary>
+  <summary><h2>🔴 About Me</h2></summary>
 - 🌱 I’m a 21 years old Software Engineering undergraduate from Sri Lanka.<br>
 - 💻 Enthusiast of the MERN stack (MongoDB, Express, React, Node.js).<br>
 - 🛠️ I have worked on projects involving various functionalities and have hands-on experience with full-stack development.<br>
@@ -16,7 +16,7 @@
 </details>
 
 <details>
-  <summary><h1>Skills</h1></summary>
+  <summary><h2>🔴 Skills</h2></summary>
   
 - **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
 - **Backend**: Node.js, Express.js, Java, PHP
@@ -30,13 +30,13 @@
 </details>
 
 <details>
-  <summary><h1>Hobbies</h1></summary>
+  <summary><h2>🔴 Hobbies</h2></summary>
 - 🚀 Exploring new technologies <br>
 - 📚 Continuously learning and improving development skills. <br>
 </details>
 
 <details>
-  <summary><h1>Connect With Me</h1></summary>
+  <summary><h2>🔴 Connect With Me</h2></summary>
 - 📩 Feel free to connect with me. Email me at ishhhk817@gmail.com.<br>
 </details>
 
