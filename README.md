@@ -7,13 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diperera&label=Profile%20views&color=0e75b6&style=flat" alt="diperera" /> </p>
 
-## About Me
-- 🌱 I’m a 21 years old Software Engineering undergraduate from Sri Lanka.
-- 💻 Enthusiast of the MERN stack (MongoDB, Express, React, Node.js).
-- 🛠️ I have worked on projects involving various functionalities and have hands-on experience with full-stack development.
-- 🚀 I enjoy exploring new technologies and continuously improving my skills.
+<details>
+  <summary><h1>About Me</h1></summary>
+- 🌱 I’m a 21 years old Software Engineering undergraduate from Sri Lanka.<br>
+- 💻 Enthusiast of the MERN stack (MongoDB, Express, React, Node.js).<br>
+- 🛠️ I have worked on projects involving various functionalities and have hands-on experience with full-stack development.<br>
+- 🚀 I enjoy exploring new technologies and continuously improving my skills.<br>
+</details>
 
-## Skills
+<details>
+  <summary><h1>Skills</h1></summary>
+  
 - **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
 - **Backend**: Node.js, Express.js, Java, PHP
 - **Database**: MongoDB, SQL
@@ -23,13 +27,19 @@
 - **Deployment**: Netlify
 - **Networking**: Cisco Packet Tracer
 - **Programming Languages**: C, C++
+</details>
 
-## Hobbies
-- 🚀 Exploring new technologies
-- 📚 Continuously learning and improving development skills
+<details>
+  <summary><h1>Hobbies</h1></summary>
+- 🚀 Exploring new technologies <br>
+- 📚 Continuously learning and improving development skills. <br>
+</details>
 
-## Connect With Me
-Feel free to connect with me. Email me at ishhhk817@gmail.com.
+<details>
+  <summary><h1>Connect With Me</h1></summary>
+- 📩 Feel free to connect with me. Email me at ishhhk817@gmail.com.<br>
+</details>
+
 
   <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
