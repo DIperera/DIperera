@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ishira</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+, I'm Ishira</h1>
 <h2 align="center">A passionate Fullstack Developer from Sri Lanka</h2>
 <div align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=0086F7&size=28&center=true&vCenter=true&width=600&height=50&lines=🧑‍💻+A+Software+Engineering+Undergraduate;💻Exploring+New+Technologies🌍;💡Continuously+Learning+and+Evolving...;" alt="Headline"/> 
@@ -7,8 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diperera&label=Profile%20views&color=0e75b6&style=flat" alt="diperera" /> </p>
 
 ## About Me
-- 🌱 I’m currently an undergraduate student at SLIIT University in Sri Lanka.
-- 👨‍💻 Aspiring Fullstack Developer.
+- 🌱 I’m a 21 years old Software Engineering undergraduate from Sri Lanka.
 - 💻 Enthusiast of the MERN stack (MongoDB, Express, React, Node.js).
 - 🛠️ I have worked on projects involving various functionalities and have hands-on experience with full-stack development.
 - 🚀 I enjoy exploring new technologies and continuously improving my skills.
@@ -29,7 +29,7 @@
 - 📚 Continuously learning and improving development skills
 
 ## Connect With Me
-Feel free to connect with me on [LinkedIn](https://lk.linkedin.com/in/ishira-perera) or email me at ishhhk817@gmail.com.
+Feel free to connect with me. Email me at ishhhk817@gmail.com.
 
   <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
