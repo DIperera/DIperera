@@ -81,7 +81,8 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DIperera&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="150">
+  
   
 </td>
 <td width="50%" align="center">
