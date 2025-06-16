@@ -42,16 +42,18 @@
 
 <details>
   <summary><h2>🔴 Skills</h2></summary>
-  
+        
+- **Programming Languages**: Python, R, Java, C, C++, JavaScript, PHP, SQL
+- **Scripting & Markup**: Bash, HTML, CSS
 - **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
 - **Backend**: Node.js, Express.js, Java, PHP
 - **Database**: MongoDB, SQL
 - **Version Control**: Git, GitHub
 - **Tools**: Postman, VS Code, Notepad++, Eclipse, Dev C++, CodeBlocks
-- **Servers**: Tomcat Server
+- **Servers**: Tomcat Server, XAMPP
 - **Deployment**: Netlify
 - **Networking**: Cisco Packet Tracer
-- **Programming Languages**: C, C++
+  
 </details>
 
 <details>
@@ -193,6 +195,31 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="55" height="55"/>
+</a>
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- Eclipse -->
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="55" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- XAMPP -->
+<a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="55" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
 </p>
 
 
