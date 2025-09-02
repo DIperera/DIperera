@@ -6,6 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=0086F7&size=28&center=true&vCenter=true&width=600&height=50&lines=🧑‍💻+A+Software+Engineering+Undergraduate;💻Exploring+New+Technologies🌍;💡Continuously+Learning+and+Evolving...;" alt="Headline"/> 
     </div>
 
+<h2 align="center">🔴Github Committer Rank : " <img src="https://user-badge.committers.top/sri_lanka/DIperera.svg" alt="https://user-badge.committers.top/sri_lanka/DIperera"/> "</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diperera&label=Profile%20views&color=0e75b6&style=flat" alt="diperera" /> </p>
 
 <div align="center">
