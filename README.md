@@ -1,9 +1,9 @@
 
 <h1 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="50">&nbsp;Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 , I'm Ishira<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="50">&nbsp;</h1>
-<h2 align="center">A passionate Fullstack Developer from Sri Lanka</h2>
+<h2 align="center">A passionate Data Scientist from Sri Lanka</h2>
 <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=0086F7&size=28&center=true&vCenter=true&width=600&height=50&lines=🧑‍💻+A+Software+Engineering+Undergraduate;💻Exploring+New+Technologies🌍;💡Continuously+Learning+and+Evolving...;" alt="Headline"/> 
+        <img src="https://readme-typing-svg.herokuapp.com?color=0086F7&size=28&center=true&vCenter=true&width=600&height=50&lines=🧑‍💻+A+Data+Science+Undergraduate;💻Exploring+New+Technologies🌍;💡Continuously+Learning+and+Evolving...;" alt="Headline"/> 
     </div>
 
 <h2 align="center">🔴Github Committer Rank : " <img src="https://user-badge.committers.top/sri_lanka/DIperera.svg" alt="https://user-badge.committers.top/sri_lanka/DIperera"/> "</h2>
@@ -35,7 +35,7 @@
   <summary><h2>🔴 About Me</h2></summary>
         <div align="center"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"></div>
 <br>
-- 🌱 I’m a 21 years old Software Engineering undergraduate from Sri Lanka.<br>
+- 🌱 I’m a 22 years old Data Science undergraduate from Sri Lanka.<br>
 - 💻 Enthusiast of the MERN stack (MongoDB, Express, React, Node.js).<br>
 - 🛠️ I have worked on projects involving various functionalities and have hands-on experience with full-stack development.<br>
 - 🚀 I enjoy exploring new technologies and continuously improving my skills.<br>
